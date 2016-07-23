@@ -1,5 +1,7 @@
 This is a Skillcrush class project creating a WordPress website for a marketing company.  
 
+![alt tag](https://github.com/mashablair/accelerate/blob/master/Screen%20Shot%202016-07-23%20at%201.36.12%20PM.png)
+
 What was done in this practice:  
 
 - imported blog from Blogger 
